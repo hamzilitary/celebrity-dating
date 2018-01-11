@@ -1,0 +1,7 @@
+.btn {
+  display: block;
+}
+
+#match, #match2, #match3, #match4 {
+  display: none;
+}
